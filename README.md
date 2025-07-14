@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zztrans
 - 👀 I’m interested in ACG, CTF, algorithm competition, football, and so on.
-- 🌱 I’m currently researching in security-related, multimodality-related topics.
+- 🌱 I’m currently studying in security-related, AI application and performance optimization topics.
 - 💞️ Project I'm trying to follow
 - [YSOS: a RUST x86_64 OS lab](https://github.com/YatSenOS/YatSenOS-Tutorial-Volume-2).
 - [OJ-lab](https://github.com/OJ-lab).
