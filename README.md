@@ -20,6 +20,8 @@
 - 🎹 Lv.1 Pianist · 🏃 Jogging in progress
 - ✍️ [Drop by my secret base ↗](https://blog.zztrans.top)
 
+<br clear="both"/>
+
 <div align="center">
 
 ![Languages](https://img.shields.io/badge/Languages:-red?style=flat-square)
