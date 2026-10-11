@@ -1,14 +1,38 @@
-- 👋 Hi, I’m @Zztrans
-- 👀 I’m interested in ACG, CTF, algorithm competition, football, and so on.
-- 🌱 I'm currently learning about and working on topics in security, AI applications, and performance optimization.
-- 💞️ A collection of projects I've worked on or am currently contributing to:
-- - [YSOS: a RUST x86_64 OS lab](https://github.com/YatSenOS/YatSenOS-Tutorial-Volume-2).
-- - [OJ-lab](https://github.com/OJ-lab).
-- - An AI Metaphysics App.
-- ✍️ My [blog](https://blog.zztrans.top) for notes, tutorials, and thoughts.
-- 📫 Reach me via email: enp0cmFuczY2NnR4ZHlAZ21haWwuY29t.
+<a href="https://github.com/Zztrans">
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Zztrans&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    >
+    <img
+      align="right"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Zztrans&hide_border=true"
+      alt="GitHub contribution streak"
+    >
+  </picture>
+</a>
 
+### Hi, I'm Zztrans 👋
 
-[![](https://raw.githubusercontent.com/Zztrans/Zztrans/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Zztrans/Zztrans/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Zztrans/Zztrans/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Zztrans/Zztrans/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Zztrans/Zztrans/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+---
+
+- 👀 Interested in ACG, CTF, algorithm competitions, and football.
+- 🌱 Exploring security, AI applications, and performance optimization.
+- 🎹🏃 I'm a beginner at piano and running.
+- ✍️ Notes, tutorials, and thoughts on [my blog](https://blog.zztrans.top).
+
+<div align="center">
+
+![Exploring](https://img.shields.io/badge/Exploring:-red?style=flat-square)
+![Security](https://img.shields.io/badge/Security-222?style=flat-square&logo=shieldsdotio)
+![AI](https://img.shields.io/badge/AI-222?style=flat-square&logo=openai)
+![Performance](https://img.shields.io/badge/Performance%20optimization-222?style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-222?style=flat-square&logo=rust)
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zztrans/Zztrans/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zztrans/Zztrans/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Zztrans/Zztrans/output/github-contribution-grid-snake.svg">
+</picture>
