@@ -16,18 +16,24 @@
 
 ---
 
-- 👀 Interested in ACG, CTF, algorithm competitions, and football.
-- 🌱 Exploring security, AI applications, and performance optimization.
-- 🎹🏃 I'm a beginner at piano and running.
-- ✍️ Notes, tutorials, and thoughts on [my blog](https://blog.zztrans.top).
+- 🎮 ACG · CTF · algorithms · football
+- 🎹 Learning piano, 🏃 learning to run — one step at a time.
+- ✍️ [Occasional thoughts, occasionally profound →](https://blog.zztrans.top)
 
 <div align="center">
 
+![Languages](https://img.shields.io/badge/Languages:-red?style=flat-square)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
+![Environment](https://img.shields.io/badge/Environment:-red?style=flat-square)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
+
 ![Exploring](https://img.shields.io/badge/Exploring:-red?style=flat-square)
-![Security](https://img.shields.io/badge/Security-222?style=flat-square&logo=shieldsdotio)
-![AI](https://img.shields.io/badge/AI-222?style=flat-square&logo=openai)
-![Performance](https://img.shields.io/badge/Performance%20optimization-222?style=flat-square)
-![Rust](https://img.shields.io/badge/Rust-222?style=flat-square&logo=rust)
+[![AI](https://img.shields.io/badge/AI-222?style=flat-square&logo=openai&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[![Performance optimization](https://img.shields.io/badge/Performance%20optimization-222?style=flat-square)](https://en.wikipedia.org/wiki/Program_optimization)
 
 </div>
 
