@@ -17,8 +17,8 @@
 ---
 
 - 🎮 ACG · CTF · algorithms · football
-- 🎹 Learning piano, 🏃 learning to run — one step at a time.
-- ✍️ [Occasional thoughts, occasionally profound →](https://blog.zztrans.top)
+- 🎹 Lv.1 Pianist · 🏃 Jogging in progress
+- ✍️ [Drop by my secret base ↗](https://blog.zztrans.top)
 
 <div align="center">
 
